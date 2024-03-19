@@ -32,3 +32,14 @@ a {
 img {
   width: 100%;
 }
+
+
+
+.text-center{
+  text-align: center;
+  
+}
+
+.text-right{
+  text-align: end;
+}
