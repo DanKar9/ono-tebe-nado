@@ -49,10 +49,11 @@
 .adress {
     grid-area: info;
     max-width: 240px;
+   
 }
 .adress__link {
     font-style:normal;
-    text-decoration: underline;
+    text-underline-offset:auto;
     font-size: 18px;
     font-weight: 400;
     line-height: 24.3px;
